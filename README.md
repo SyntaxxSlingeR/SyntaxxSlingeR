@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm Ayush</h1>
 <h3 align="center">From basics to breakthroughs—I'm evolving with every line of code</h3>
 
