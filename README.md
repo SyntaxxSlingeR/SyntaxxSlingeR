@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 👯 I’m looking to collaborate on **looking to team up on coding projects**
+- 👯 I’m looking to collaborate ** to team up on coding projects**
 
 - ⚡ Fun fact **I once spent 4 hours debugging... only to find a missing semicolon. Still proud!**
 
